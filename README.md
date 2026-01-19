@@ -971,10 +971,6 @@ db-backup restore <backup-id> --db-type mysql --host localhost --user root --pas
 mysql -u root -psecret testdb_restored -e "SHOW TABLES;"
 ```
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
-
 ### Development Setup
 
 ```bash
@@ -1049,6 +1045,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ by the DB Backup CLI team**
 
 *Star ⭐ this repository if you find it helpful!*
